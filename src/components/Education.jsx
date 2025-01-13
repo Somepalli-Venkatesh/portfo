@@ -4,19 +4,19 @@ const Education = () => {
   const educationDetails = [
     {
       logo: "logo-arrow",
-      degree: 'Bachelor of Technology in Information Technology',
-      institution: 'Bhgawan Mahavir University, Surat',
-      grades: 'CGPA: 7.58',
-      year: ' [2021-present]',
-      desc: "I am currently pursuing a Bachelor's degree in Infromation technology at Bhgawan Mahavir University, Surat, Gujarat. I have completed 5 semesters and have a CGPA of 7.58.",
+      degree: '',
+      institution: '',
+      grades: '',
+      year: ' ',
+      desc: "",
     },
     {
       logo: "logo-play",
-      degree: 'GSEB(XII)-HSC',
-      institution: 'Bhaktashram Ashramshala, Navsari',
-      grades: 'Grade: 70.1% ',
-      year: ' [2020-2021]',
-      desc: "I completed my class 12 high school education at Bhaktashram Ashramshala, Navsari, where I studied Science with PCM.",       
+      degree: '',
+      institution: '',
+      grades: ' ',
+      year: ' ',
+      desc: "",       
     },
   ];
 
